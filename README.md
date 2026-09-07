@@ -5,14 +5,15 @@ This repository contains a Power BI analytics project built on the **Superstore*
 
 > **Goal**: Transform raw transactional data into a clean, analysis-ready model for business insights.
 
-| 1 | **Source** | Load raw data from CSV/Excel |
-| 2 | **Promoted Headers** | Convert the first row into column headers |
-| 3 | **Changed Type** | Set initial data types (text, number, date) |
-| 4 | **Changed Type with Locale** | Parse dates/currency using correct locale settings |
-| 5 | **Capitalized Each Word** | Standardize text casing (e.g., "new york" → "New York") |
-| 6 | **Added Custom** | First custom column (e.g., derived fields) |
-| 7 | **Added Custom1** | Second custom column (e.g., calculations) |
-| 8 | **Added Custom2** | Third custom column (e.g., flags or categories) |
+ **Source** | Load raw data from CSV/Excel |
+ **Promoted Headers** | Convert the first row into column headers |
+ **Changed Type** | Set initial data types (text, number, date) |
+ **Changed Type with Locale** | Parse dates/currency using correct locale settings |
+**Capitalized Each Word** | Standardize text casing (e.g., "new york" → "New York") 
+| **Added Custom** | First custom column (e.g., derived fields) |
+
+ **Added Custom1** | Second custom column (e.g., calculations) |
+ **Added Custom2** | Third custom column (e.g., flags or categories) |
 
 > 💡 **Tip**: Rename these custom steps to descriptive names (e.g., `Added Profit Margin`, `Added Region Code`) for easier maintenance.
 
