@@ -1,4 +1,4 @@
-# power-bi
+
 
 ## 📌 Project Overview
 This repository contains a Power BI analytics project built on the **Superstore** dataset. The primary deliverable is `project 1.pbix`, an interactive report that visualizes sales, profit, and customer performance across regions and product categories.
