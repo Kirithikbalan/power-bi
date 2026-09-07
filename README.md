@@ -15,7 +15,7 @@ This repository contains a Power BI analytics project built on the **Superstore*
  **Added Custom1** | Second custom column (e.g., calculations) |
  **Added Custom2** | Third custom column (e.g., flags or categories) |
 
-> 💡 **Tip**: Rename these custom steps to descriptive names (e.g., `Added Profit Margin`, `Added Region Code`) for easier maintenance.
+
 
 ## 📊 Data Sources & Schema
 | Source | Type | Update Frequency | Notes |
